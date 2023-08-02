@@ -132,10 +132,13 @@ button{
 }
 .attribution{
     width: 100%;
+    height: 50px;
+    /* border:  2px solid red; */
+    margin-top: 20px;
     text-align: center;
-    margin: auto;
+    /* margin: auto; */
     position: absolute;
-    bottom: 200px;
+    /* bottom: 200px; */
 
 }
 
