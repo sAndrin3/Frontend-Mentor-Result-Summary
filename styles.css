@@ -139,7 +139,6 @@ button{
         border-bottom-right-radius: 20px;
     }
     .right{
-        /* height: 700px; */
         top: 0;
         padding: 0;
         width: 100%;
@@ -153,42 +152,13 @@ button{
         width: 100%;
         display: block;
         height: 900px;
-        /* flex-direction: column; */
         border-radius: 0px;
         overflow: hidden;
         padding: 0;
     }
 }
 
-/* @media (max-width: 375px) {
-    .container {
-        width: 90%;
-        height: auto;
-    }
 
-    .left, .right {
-        width: 100%;
-        float: none;
-    }
-
-    .leftscore {
-        margin: 0 auto;
-        margin-top: 30px;
-    }
-
-    .right {
-        top: 0;
-    }
-
-    .score_cont {
-        display: block;
-    }
-
-    .rscore, .mscore, .vescore, .viscore {
-        width: 100%;
-        margin-right: 0;
-    }
-} */
 
 
 
